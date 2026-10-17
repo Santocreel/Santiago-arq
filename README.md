@@ -64,7 +64,7 @@ Prácticas profesionales
 
 ## Proyectos destacados
 
-> Aquí van tus mejores renders. Sube las imágenes a una carpeta `imagenes/` de este repositorio y reemplaza los ejemplos de abajo.
+
 
 ### Nombre del proyecto 1
 *Tipo de proyecto · Software utilizado (ej. Revit + Lumion)*
